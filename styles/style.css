@@ -4,3 +4,4 @@ li{font-weight:normal;font-style:italic;margin-bottom: 1%}
 ul>li{text-align:left}
 dt{font-weight:bold}
 dd{font-style:italic}
+a{display: flow-root;font-size: 150%}
