@@ -1,3 +1,4 @@
 .FontWeightBold{font-weight:bold}
 .FontStyleItalic{font-style:italic}
 *{text-align: center}
+ul>li{text-align:left}
